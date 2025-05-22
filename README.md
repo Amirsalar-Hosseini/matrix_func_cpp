@@ -1,4 +1,3 @@
----
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![GitHub Stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/username/repo/stargazers)  
