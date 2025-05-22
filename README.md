@@ -23,7 +23,7 @@
 git clone https://github.com/Amirsalar-Hosseini/matrix_func_cpp
 cd matrix_func_cpp
 
-# 3. اجرای پروژه
+# 2. اجرای پروژه
 ```
 ---
 
