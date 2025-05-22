@@ -1,8 +1,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/stargazers)  
-[![GitHub Issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/issues)  
-[![GitHub Forks](https://img.shields.io/github/forks/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/network)  
+[![GitHub Stars](https://img.shields.io/github/stars/Amirsalar-Hosseini/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/stargazers)  
+[![GitHub Issues](https://img.shields.io/github/issues/Amirsalar-Hosseini/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/issues)  
+[![GitHub Forks](https://img.shields.io/github/forks/Amirsalar-Hosseini/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/network)  
 
 ---
 
