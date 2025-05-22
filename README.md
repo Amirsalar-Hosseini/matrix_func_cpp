@@ -1,8 +1,5 @@
 ---
 
-## **📌 عنوان پروژه**  
-`نام پروژه` - توضیح یک خطی درباره‌ی هدف پروژه  
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![GitHub Stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/stargazers)  
 [![GitHub Issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/issues)  
@@ -11,7 +8,7 @@
 ---
 
 ## **📝 توضیحات پروژه**  
-این پروژه یک **گاوس جردن** است که برای **حل عملیات توابع ماتریسی** طراحی شده است.  
+این پروژه **گاوس جردن** است که برای **حل عملیات توابع ماتریسی** طراحی شده است.  
 - **ویژگی‌های کلیدی:**  
   - ✅ قابلیت حل معادله ماتریسی  
   - ✅ قابلیت حل وارون ماتریس  
