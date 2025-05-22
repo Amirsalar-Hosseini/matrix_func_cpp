@@ -8,19 +8,18 @@
 `نام پروژه` - توضیح یک خطی درباره‌ی هدف پروژه  
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/username/repo/stargazers)  
-[![GitHub Issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/username/repo/issues)  
-[![GitHub Forks](https://img.shields.io/github/forks/username/repo.svg)](https://github.com/username/repo/network)  
+[![GitHub Stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/stargazers)  
+[![GitHub Issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/issues)  
+[![GitHub Forks](https://img.shields.io/github/forks/username/repo.svg)](https://github.com/Amirsalar-Hosseini/matrix_func_cpp/network)  
 
 ---
 
 ## **📝 توضیحات پروژه**  
-این پروژه یک **_______** است که برای **_______** طراحی شده است.  
-- **مشکل/نیازی که حل می‌کند:** توضیح دهید.  
+این پروژه یک **گاوس جردن** است که برای **حل عملیات توابع ماتریسی** طراحی شده است.  
 - **ویژگی‌های کلیدی:**  
-  - ✅ قابلیت ۱  
-  - ✅ قابلیت ۲  
-  - ✅ قابلیت ۳  
+  - ✅ قابلیت حل معادله ماتریسی  
+  - ✅ قابلیت حل وارون ماتریس  
+  - ✅ قابلیت حل دترمینان ماتریس  
 
 ---
 
@@ -34,37 +33,11 @@
 ### **نصب و اجرا**  
 ```bash
 # 1. کلون کردن ریپوی پروژه
-git clone https://github.com/username/repo.git
-cd repo
-
-# 2. نصب dependencies (مثلاً برای پایتون)
-pip install -r requirements.txt
+git clone https://github.com/Amirsalar-Hosseini/matrix_func_cpp
+cd matrix_func_cpp
 
 # 3. اجرای پروژه
-python main.py
 ```
-
----
-
-## **🛠 فناوری‌های استفاده‌شده**  
-- **زبان‌های برنامه‌نویسی:** Python, JavaScript  
-- **فریمورک‌ها:** Django, React  
-- **دیتابیس:** PostgreSQL  
-- **ابزارهای دیگر:** Docker, GitHub Actions  
-
----
-
-## **📂 ساختار پروژه**  
-```plaintext
-repo/
-├── src/            # کدهای اصلی پروژه
-├── tests/          # تست‌های واحد
-├── docs/           # مستندات
-├── .github/        # تنظیمات GitHub (CI/CD, Issue Templates)
-├── LICENSE         # مجوز پروژه
-└── README.md       # همین فایل!
-```
-
 ---
 
 ## **🤝 مشارکت در پروژه**  
@@ -93,9 +66,8 @@ repo/
 ---
 
 ## **📬 تماس با من**  
-- **ایمیل:** your-email@example.com  
-- **توییتر:** [@YourTwitter](https://twitter.com/YourTwitter)  
-- **لینکدین:** [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)  
+- **ایمیل:** amirsalarhosseini18@gmail.com  
+- **لینکدین:** [Amirsalar Hosseini](https://linkedin.com/in/amirsalar-hosseini)  
 
 ---
 
