@@ -1,0 +1,3 @@
+/home/amirsalar/Downloads/Telegram Desktop/algabra (2)/pro/algabra/cmake-build-debug/CMakeFiles/algabra.dir
+/home/amirsalar/Downloads/Telegram Desktop/algabra (2)/pro/algabra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amirsalar/Downloads/Telegram Desktop/algabra (2)/pro/algabra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
